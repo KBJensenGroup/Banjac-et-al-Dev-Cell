@@ -1,2 +1,2 @@
 # Banjac-et-al-Dev-Cell
-# doi for paper 
+# Code for the paper: Fate mapping in mouse demonstrates early secretory differentiation directly from Lgr5+ intestinal stem cells
